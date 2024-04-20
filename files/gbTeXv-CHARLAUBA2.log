@@ -1,0 +1,185 @@
+----------------
+From file DUMMY:
+pg 1: (./pdf-CHARLAUBA2.tex
+pg 1: Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+pg 1: Inserting `luaotfload.node_processor' in `hpack_filter'.
+pg 1: Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+pg 1: Inserting `luaotfload.define_font' in `define_font'.
+pg 1: Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+pg 1: Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+pg 1: Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+pg 1: Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+pg 1: Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+pg 1: Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+pg 1: Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+pg 1: Inserting `luaotfload.glyphinfo' in `glyph_info'.
+pg 1: Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+pg 1: Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+pg 1: Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+pg 1: Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+pg 1: Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+pg 1: Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+pg 1: Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+pg 1: Inserting `tracingstacklevels' in `input_level_string'.
+--------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/generic/babel-french/french.ldf:
+pg 1: Inserting `frenchb.french_punctuation' in `kerning'.
+-------------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/lualatex/linebreaker/linebreaker.sty:
+pg 1: Inserting `new linebreak callback' in `linebreak_filter'.
+pg 1: Inserting `new linebreak callback' in `post_linebreak_filter'.
+----------------
+From file DUMMY:
+pg 1: Inserting `Our overfull box reporting function' in `hpack_quality'.
+------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty:
+pg 1: Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+pg 1: Already applied: [0000/00/00] Usage of raw or classic option list on input line
+pg 1: 368.
+----------------
+From file DUMMY:
+pg 1: ! Missing number, treated as zero.
+      <to be read again> 
+      \scan_stop: 
+      l.282 
+pg 1: A number should have been here; I inserted `0'.
+pg 1: (If you can't figure out why I needed to see a number,
+pg 1: look up `weird error' in the index to The TeXbook.)
+------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/latex/biblatex/blx-bibtex.def:
+pg 1: Package biblatex Warning: Using fall-back bibtex backend:
+      (biblatex)                functionality may be reduced/unavailable.
+--------------------------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/latex/biblatex-philosophy/philosophy-standard.bbx:
+pg 1: ! Package biblatex Error: Biber backend is required by style.
+      See the biblatex package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.30 \RequireBiber[3]
+pg 1: The selected style or one of the .bib files requires Biber.
+pg 1: It will not work at all with BibTeX..
+-------------------------------------------
+From file ./files/gbTeXmeta-CHARLAUBA2.tex:
+pg 1: Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+      (hyperref)                removing `subscript' on input line 24.
+pg 1: ! Package kvsetkeys Error: Undefined key `pdfx'.
+      See the kvsetkeys package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.24 }
+pg 1: The keyval family of the key `pdfx' is `Hyp'.
+pg 1: The setting of the key is ignored because of the error.
+pg 1: Try typing  <return>  to proceed.
+pg 1: If that doesn't work, type  X <return>  to quit.
+pg 1: ! Package kvsetkeys Error: Undefined key `pdfformato'.
+      See the kvsetkeys package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.24 }
+pg 1: The keyval family of the key `pdfformato' is `Hyp'.
+pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
+      (hyperref)                setting the option has no effect on input line 24.
+----------------
+From file DUMMY:
+pg 9: ! Package glossaries Error: Glossary entry `@glo202-joseingenieros' has not bee
+      n defined.
+      See the glossaries package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.680 ...ción de \gls{@glo202-joseingenieros}\index
+pg 9: [onomastico]{Ingenieros, J...
+pg 9: You need to define a glossary entry before you can use it.
+pg 9: ! Package glossaries Error: Glossary entry `@glo195-coas' has not been defined.
+      See the glossaries package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.680 ...ularidad caracterizó a \gls{@glo195-coas} 
+pg 9: y también a muchos de sus...
+pg 11: Capítulo 1.
+pg 11: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
+       d.
+       See the glossaries package documentation for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.688 ...les impulsados por el \gls{@glo201-ceheal} 
+pg 11: desde su creación en 2019...
+pg 11: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
+       d.
+       See the glossaries package documentation for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.708 ...les impulsados por el \gls{@glo201-ceheal} 
+pg 13: Capítulo 2.
+pg 13: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
+       d.
+       See the glossaries package documentation for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.714 ...les impulsados por el \gls{@glo201-ceheal} 
+pg 13: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
+       d.
+       See the glossaries package documentation for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.750 ...les impulsados por el \gls{@glo201-ceheal} 
+pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acronym}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 771.
+pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 772.
+pg 15: LaTeX Warning: Empty bibliography on input line 773.
+pg 19: ! Package glossaries Error: Glossary entry `@glo200-latex' has not been defined
+       .
+       See the glossaries package documentation for explanation.
+       Type  H <return>  for immediate help.
+        ...                                              
+                                                         
+       l.816 ...utilizando el lenguaje \gls{@glo200-latex} 
+pg 19: y el software gbTeXpublisher.
+
+After last page:
+
+Package imakeidx Warning: Remember to run lualatex again after calling
+(imakeidx)                `texindy names.idx'.
+Package imakeidx Warning: Remember to run lualatex again after calling
+(imakeidx)                `texindy concepto.idx'.
+Package imakeidx Warning: Remember to run lualatex again after calling
+(imakeidx)                `texindy onomastico.idx'.
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                pdf-CHARLAUBA2
+(biblatex)                and rerun LaTeX afterwards.
+)
+
+====  Summary:  ====
+
+Repeated messages:
+    If that doesn't work, type  X <return>  to quit.
+    in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 2 repetitions
+    Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+    (hyperref)                removing `subscript' on input line 24.
+    in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 3 repetitions
+    The setting of the key is ignored because of the error.
+    in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 2 repetitions
+    Try typing  <return>  to proceed.
+    in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 2 repetitions
+    You need to define a glossary entry before you can use it.
+    in pages 9, 11, 13, 19 (file DUMMY) - 7 repetitions
+    desde su creación en 2019...
+    in pages 11, 13 (file DUMMY) - 4 repetitions
+
+Undefined citations:
+    @2761-RODRIGUEZRIVA2019 in page 11 (file DUMMY: line 708)
+    @2762-MONSIVAIS1994 in page 9 (file DUMMY: line 680)
+
+** texlogsieve got confused during log processing **
+   messages may be missing or filenames may be
+   incorrect, check the LaTeX logfile directly
+
+** There were errors during processing! Generated PDF is probably defective **
+
