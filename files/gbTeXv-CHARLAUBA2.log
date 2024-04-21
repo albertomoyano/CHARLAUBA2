@@ -23,7 +23,40 @@ pg 1: Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
 pg 1: Inserting `tracingstacklevels' in `input_level_string'.
 --------------------------------------------------------------------
 From file /usr/share/texmf-dist/tex/generic/babel-french/french.ldf:
+pg 1: Package babel Warning: No hyphenation patterns were preloaded for
+      (babel)                the language 'French' into the format.
+      (babel)                Please, configure your TeX system to add them and
+      (babel)                rebuild the format. Now I will use the patterns
+      (babel)                preloaded for \language=nohyphenation instead on input line 87.
 pg 1: Inserting `frenchb.french_punctuation' in `kerning'.
+--------------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/generic/babel-portuges/portuguese.ldf:
+pg 1: Package babel Warning: No hyphenation patterns were preloaded for
+      (babel)                the language 'Portuguese' into the format.
+      (babel)                Please, configure your TeX system to add them and
+      (babel)                rebuild the format. Now I will use the patterns
+      (babel)                preloaded for \language=nohyphenation instead on input line 53.
+----------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/generic/babel-italian/italian.ldf:
+pg 1: Package babel Warning: No hyphenation patterns were preloaded for
+      (babel)                the language 'Italian' into the format.
+      (babel)                Please, configure your TeX system to add them and
+      (babel)                rebuild the format. Now I will use the patterns
+      (babel)                preloaded for \language=nohyphenation instead on input line 21.
+---------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/generic/babel-german/germanb.ldf:
+pg 1: Package babel Warning: No hyphenation patterns were preloaded for
+      (babel)                the language 'German (trad. orthography)' into the format.
+      (babel)                Please, configure your TeX system to add them and
+      (babel)                rebuild the format. Now I will use the patterns
+      (babel)                preloaded for \language=nohyphenation instead on input line 62.
+----------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf:
+pg 1: Package babel Warning: No hyphenation patterns were preloaded for
+      (babel)                the language 'Spanish' into the format.
+      (babel)                Please, configure your TeX system to add them and
+      (babel)                rebuild the format. Now I will use the patterns
+      (babel)                preloaded for \language=nohyphenation instead on input line 51.
 -------------------------------------------------------------------------
 From file /usr/share/texmf-dist/tex/lualatex/linebreaker/linebreaker.sty:
 pg 1: Inserting `new linebreak callback' in `linebreak_filter'.
@@ -59,16 +92,22 @@ pg 1: ! Package biblatex Error: Biber backend is required by style.
       l.30 \RequireBiber[3]
 pg 1: The selected style or one of the .bib files requires Biber.
 pg 1: It will not work at all with BibTeX..
+--------------------------------------------------------------------
+From file /usr/share/texmf-dist/tex/latex/impnattypo/impnattypo.sty:
+pg 1: Inserting `homeoarchy' in `post_linebreak_filter'.
+----------------
+From file DUMMY:
+pg 1: Inserting `homoioteleuton' in `post_linebreak_filter'.
 -------------------------------------------
 From file ./files/gbTeXmeta-CHARLAUBA2.tex:
 pg 1: Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-      (hyperref)                removing `subscript' on input line 24.
+      (hyperref)                removing `subscript' on input line 28.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfx'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.24 }
+      l.28 }
 pg 1: The keyval family of the key `pdfx' is `Hyp'.
 pg 1: The setting of the key is ignored because of the error.
 pg 1: Try typing  <return>  to proceed.
@@ -78,10 +117,10 @@ pg 1: ! Package kvsetkeys Error: Undefined key `pdfformato'.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.24 }
+      l.28 }
 pg 1: The keyval family of the key `pdfformato' is `Hyp'.
 pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
-      (hyperref)                setting the option has no effect on input line 24.
+      (hyperref)                setting the option has no effect on input line 28.
 ----------------
 From file DUMMY:
 pg 9: ! Package glossaries Error: Glossary entry `@glo202-joseingenieros' has not bee
@@ -101,47 +140,8 @@ pg 9: ! Package glossaries Error: Glossary entry `@glo195-coas' has not been def
       l.680 ...ularidad caracterizó a \gls{@glo195-coas} 
 pg 9: y también a muchos de sus...
 pg 11: Capítulo 1.
-pg 11: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-       d.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.688 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 11: desde su creación en 2019...
-pg 11: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-       d.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.708 ...les impulsados por el \gls{@glo201-ceheal} 
 pg 13: Capítulo 2.
-pg 13: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-       d.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.714 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 13: ! Package glossaries Error: Glossary entry `@glo201-ceheal' has not been define
-       d.
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.750 ...les impulsados por el \gls{@glo201-ceheal} 
-pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acronym}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 771.
-pg 15: Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 772.
-pg 15: LaTeX Warning: Empty bibliography on input line 773.
-pg 19: ! Package glossaries Error: Glossary entry `@glo200-latex' has not been defined
-       .
-       See the glossaries package documentation for explanation.
-       Type  H <return>  for immediate help.
-        ...                                              
-                                                         
-       l.816 ...utilizando el lenguaje \gls{@glo200-latex} 
-pg 19: y el software gbTeXpublisher.
+pg 15: Using TeX to sort glossary entries---this may take a while
 
 After last page:
 
@@ -151,9 +151,6 @@ Package imakeidx Warning: Remember to run lualatex again after calling
 (imakeidx)                `texindy concepto.idx'.
 Package imakeidx Warning: Remember to run lualatex again after calling
 (imakeidx)                `texindy onomastico.idx'.
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                pdf-CHARLAUBA2
-(biblatex)                and rerun LaTeX afterwards.
 )
 
 ====  Summary:  ====
@@ -162,20 +159,16 @@ Repeated messages:
     If that doesn't work, type  X <return>  to quit.
     in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 2 repetitions
     Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-    (hyperref)                removing `subscript' on input line 24.
+    (hyperref)                removing `subscript' on input line 28.
     in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 3 repetitions
     The setting of the key is ignored because of the error.
     in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 2 repetitions
     Try typing  <return>  to proceed.
     in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 2 repetitions
+    Using TeX to sort glossary entries---this may take a while
+    in page 15 (file DUMMY) - 2 repetitions
     You need to define a glossary entry before you can use it.
-    in pages 9, 11, 13, 19 (file DUMMY) - 7 repetitions
-    desde su creación en 2019...
-    in pages 11, 13 (file DUMMY) - 4 repetitions
-
-Undefined citations:
-    @2761-RODRIGUEZRIVA2019 in page 11 (file DUMMY: line 708)
-    @2762-MONSIVAIS1994 in page 9 (file DUMMY: line 680)
+    in page 9 (file DUMMY) - 2 repetitions
 
 ** texlogsieve got confused during log processing **
    messages may be missing or filenames may be

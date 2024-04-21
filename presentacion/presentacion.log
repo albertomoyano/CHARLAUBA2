@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.2.23)  20 APR 2024 17:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.4.18)  20 APR 2024 23:04
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -685,7 +685,7 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count334
 \U@D=\dimen294
-\l@unhyphenated=\language87
+\l@unhyphenated=\language3
 
 (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
@@ -694,14 +694,23 @@ LaTeX Info: Redefining \textlatin on input line 4088.
 
 (/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language 'Spanish' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 51.
+
+Package babel Info: Hyphen rules for 'spanish' set to \l@english
+(babel)             (\language0). Reported on input line 52.
 \es@quottoks=\toks47
 \es@quotdepth=\count336
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
-))
-(/usr/share/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
+)) (/usr/share/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
 )
@@ -771,7 +780,7 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \bibhang=\skip72
 \blx@bcfin=\read4
 \blx@bcfout=\write5
-\blx@langwohyphens=\language88
+\blx@langwohyphens=\language4
 \c@mincomprange=\count381
 \c@maxcomprange=\count382
 \c@mincompwidth=\count383
@@ -1241,17 +1250,17 @@ Package logreq Info: Writing requests to 'presentacion.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30805 strings out of 476025
- 600583 string characters out of 5796532
+ 30811 strings out of 477985
+ 600674 string characters out of 5840058
  1859388 words of memory out of 5000000
- 50679 multiletter control sequences out of 15000+600000
+ 50432 multiletter control sequences out of 15000+600000
  528096 words of font info for 65 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
+ 14 hyphenation exceptions out of 8191
  128i,16n,122p,685b,1801s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/t
 exmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type
 1/urw/helvetic/uhvro8a.pfb>
-Output written on presentacion.pdf (10 pages, 6120601 bytes).
+Output written on presentacion.pdf (10 pages, 6120580 bytes).
 PDF statistics:
  224 PDF objects out of 1000 (max. 8388607)
  121 compressed objects within 2 object streams

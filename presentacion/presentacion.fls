@@ -1,4 +1,4 @@
-PWD /home/alberto/Disco_Bodega/00_JOB-respaldo/00_Charlas/CHARLAUBA2/presentacion
+PWD /home/alberto/Bodega/02_Produccion/CHARLAUBA2/presentacion
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
 INPUT presentacion.tex
