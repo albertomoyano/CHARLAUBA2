@@ -92,35 +92,36 @@ pg 1: ! Package biblatex Error: Biber backend is required by style.
       l.30 \RequireBiber[3]
 pg 1: The selected style or one of the .bib files requires Biber.
 pg 1: It will not work at all with BibTeX..
---------------------------------------------------------------------
-From file /usr/share/texmf-dist/tex/latex/impnattypo/impnattypo.sty:
-pg 1: Inserting `homeoarchy' in `post_linebreak_filter'.
-----------------
-From file DUMMY:
-pg 1: Inserting `homoioteleuton' in `post_linebreak_filter'.
 -------------------------------------------
 From file ./files/gbTeXmeta-CHARLAUBA2.tex:
 pg 1: Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-      (hyperref)                removing `subscript' on input line 28.
+      (hyperref)                removing `subscript' on input line 31.
+pg 1: ! Package kvsetkeys Error: Undefined key `pdfbaseurl'.
+      See the kvsetkeys package documentation for explanation.
+      Type  H <return>  for immediate help.
+       ...                                              
+                                                        
+      l.31 }
+pg 1: The keyval family of the key `pdfbaseurl' is `Hyp'.
+pg 1: The setting of the key is ignored because of the error.
+pg 1: Try typing  <return>  to proceed.
+pg 1: If that doesn't work, type  X <return>  to quit.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfx'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.28 }
+      l.31 }
 pg 1: The keyval family of the key `pdfx' is `Hyp'.
-pg 1: The setting of the key is ignored because of the error.
-pg 1: Try typing  <return>  to proceed.
-pg 1: If that doesn't work, type  X <return>  to quit.
 pg 1: ! Package kvsetkeys Error: Undefined key `pdfformato'.
       See the kvsetkeys package documentation for explanation.
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.28 }
+      l.31 }
 pg 1: The keyval family of the key `pdfformato' is `Hyp'.
 pg 1: Package hyperref Warning: Option `bookmarks' has already been used,
-      (hyperref)                setting the option has no effect on input line 28.
+      (hyperref)                setting the option has no effect on input line 31.
 ----------------
 From file DUMMY:
 pg 9: ! Package glossaries Error: Glossary entry `@glo202-joseingenieros' has not bee
@@ -129,7 +130,7 @@ pg 9: ! Package glossaries Error: Glossary entry `@glo202-joseingenieros' has no
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.680 ...ción de \gls{@glo202-joseingenieros}\index
+      l.676 ...      de \gls{@glo202-joseingenieros}\index
 pg 9: [onomastico]{Ingenieros, J...
 pg 9: You need to define a glossary entry before you can use it.
 pg 9: ! Package glossaries Error: Glossary entry `@glo195-coas' has not been defined.
@@ -137,7 +138,7 @@ pg 9: ! Package glossaries Error: Glossary entry `@glo195-coas' has not been def
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.680 ...ularidad caracterizó a \gls{@glo195-coas} 
+      l.685 ...ularidad caracterizó a \gls{@glo195-coas} 
 pg 9: y también a muchos de sus...
 pg 11: Capítulo 1.
 pg 13: Capítulo 2.
@@ -157,14 +158,14 @@ Package imakeidx Warning: Remember to run lualatex again after calling
 
 Repeated messages:
     If that doesn't work, type  X <return>  to quit.
-    in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 2 repetitions
+    in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 3 repetitions
     Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-    (hyperref)                removing `subscript' on input line 28.
+    (hyperref)                removing `subscript' on input line 31.
     in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 3 repetitions
     The setting of the key is ignored because of the error.
-    in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 2 repetitions
+    in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 3 repetitions
     Try typing  <return>  to proceed.
-    in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 2 repetitions
+    in page 1 (file ./files/gbTeXmeta-CHARLAUBA2.tex) - 3 repetitions
     Using TeX to sort glossary entries---this may take a while
     in page 15 (file DUMMY) - 2 repetitions
     You need to define a glossary entry before you can use it.

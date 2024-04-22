@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber presentacion"] 1709986534 "presentacion.bcf" "presentacion.bbl" "presentacion" 1713674766 0
+["biber presentacion"] 1709986534 "presentacion.bcf" "presentacion.bbl" "presentacion" 1713730830 0
   "./presentacion.bib" 1713649172 661 fac8ec9803c8687715765b413ebffb85 ""
-  "presentacion.bcf" 1713674766 107353 5bf4b857e144a9b9a11c1de9e19959ca "pdflatex"
+  "presentacion.bcf" 1713730830 107353 5bf4b857e144a9b9a11c1de9e19959ca "pdflatex"
   (generated)
   "presentacion.bbl"
   "presentacion.blg"
   (rewritten before read)
-["pdflatex"] 1713674765 "presentacion.tex" "presentacion.pdf" "presentacion" 1713674766 0
+["pdflatex"] 1713730828 "presentacion.tex" "presentacion.pdf" "presentacion" 1713730830 0
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1704400182 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1704400182 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/helvetic/phvr7t.tfm" 1704400182 2520 53e01eef820ca829e42c1333c3fd02b9 ""
@@ -227,16 +227,15 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1704400182 40684 9b9ec0b4288972636ff6a3b9c4238efc ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1713454322 4623317 a14e403ea671a9bc12f23e543c6a500e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1713454301 6768049 95d0367ce3c1c787197a7fdfab807a9e ""
-  "arbol.pdf" 1713672830 3765505 73ce8ba541d273ff26114851569e0c8d ""
-  "arbol2.pdf" 1713673198 3745942 3bfb765c0a4d4e28d05e9dae1ba607b1 ""
+  "arbol2.pdf" 1713730772 1444368 6c0a941ca5b0a4b46833dc71e55ce480 ""
   "captura.png" 1713649172 63593 af8116560f93a593374fbe518520cbff ""
   "estrella.pdf" 1713649172 2014951 5c220cee99d01faf200e4ab1b970dc5f ""
-  "presentacion.aux" 1713674766 2013 b4000a4388b430a694da4a58cc07d95a "pdflatex"
+  "presentacion.aux" 1713730830 1887 2800703018ee5382d238e1622a4c4ce4 "pdflatex"
   "presentacion.bbl" 1713649172 466 ee04f40f768daeed26442158e95aba61 "biber presentacion"
-  "presentacion.nav" 1713674766 845 6a05e21c0e476854050a2c769d271073 "pdflatex"
-  "presentacion.out" 1713674766 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "presentacion.run.xml" 1713674766 2363 e555912ac0a596e014c1398b7d674a29 "pdflatex"
-  "presentacion.tex" 1713674760 2741 8b36f4afca00f6d9ffed9df605b42bce ""
+  "presentacion.nav" 1713730830 755 e975c17c69a20b731009df045ad68d12 "pdflatex"
+  "presentacion.out" 1713730829 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "presentacion.run.xml" 1713730830 2363 e555912ac0a596e014c1398b7d674a29 "pdflatex"
+  "presentacion.tex" 1713729268 2747 d492562338064240b250e3d8ba52f9ba ""
   (generated)
   "presentacion.aux"
   "presentacion.bcf"
