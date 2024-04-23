@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Arch Linux)  (format=lualatex 2024.4.18)  22 APR 2024 17:40
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Arch Linux)  (format=lualatex 2024.4.18)  23 APR 2024 06:42
  restricted system commands enabled.
 **pdf-CHARLAUBA2.tex
 (./pdf-CHARLAUBA2.tex
@@ -2443,7 +2443,7 @@ See the glossaries package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.676 ...      de \gls{@glo202-joseingenieros}\index
+l.676 ...ción de \gls{@glo202-joseingenieros}\index
                                                   [onomastico]{Ingenieros, J...
 You need to define a glossary entry before you can use it.
 
@@ -2455,37 +2455,37 @@ See the glossaries package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.685 ...ularidad caracterizó a \gls{@glo195-coas} 
+l.678 ...ularidad caracterizó a \gls{@glo195-coas} 
                                                   y también a muchos de sus...
 You need to define a glossary entry before you can use it.
 
-LaTeX Info: Redefining \. on input line 687.
-LaTeX Info: Redefining \% on input line 687.
-LaTeX Info: Redefining \. on input line 687.
-LaTeX Info: Redefining \% on input line 687.
+LaTeX Info: Redefining \. on input line 680.
+LaTeX Info: Redefining \% on input line 680.
+LaTeX Info: Redefining \. on input line 680.
+LaTeX Info: Redefining \% on input line 680.
 [9] [10
 
 ]
 Capítulo 1.
-Package biblatex Info: Resetting trackers on input line 689.
+Package biblatex Info: Resetting trackers on input line 682.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
-(Font)              scaled to size 17.27994pt on input line 689.
+(Font)              scaled to size 17.27994pt on input line 682.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 10.06897pt on input line 691.
+(Font)              scaled to size 10.06897pt on input line 684.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 12.08276pt on input line 691.
+(Font)              scaled to size 12.08276pt on input line 684.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 8.39998pt on input line 693.
+(Font)              scaled to size 8.39998pt on input line 686.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 5.99998pt on input line 693.
+(Font)              scaled to size 5.99998pt on input line 686.
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 7.1302pt on input line 693.
+(Font)              scaled to size 7.1302pt on input line 686.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 704.
+(Font)              scaled to size 9.59998pt on input line 697.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FourierOrns-Regular.otf' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -2616,74 +2616,74 @@ Package microtype Info: Character `textless ' is missing
 Package microtype Info: Character `textgreater ' is missing
 (microtype)             in font `TU/FourierOrns-Regular.otf(0)/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Info: Redefining \. on input line 715.
-LaTeX Info: Redefining \% on input line 715.
-LaTeX Info: Redefining \. on input line 715.
-LaTeX Info: Redefining \% on input line 715.
+LaTeX Info: Redefining \. on input line 708.
+LaTeX Info: Redefining \% on input line 708.
+LaTeX Info: Redefining \. on input line 708.
+LaTeX Info: Redefining \% on input line 708.
  [1
 
 ] [2
 
 ]
 Capítulo 2.
-Package biblatex Info: Resetting trackers on input line 715.
+Package biblatex Info: Resetting trackers on input line 708.
 <./media/bn-imagen1.png, id=171, 229.5777pt x 125.9907pt>
 File: ./media/bn-imagen1.png Graphic file (type png)
 <use ./media/bn-imagen1.png>
-Package luatex.def Info: ./media/bn-imagen1.png  used on input line 731.
+Package luatex.def Info: ./media/bn-imagen1.png  used on input line 724.
 (luatex.def)             Requested size: 312.9803pt x 171.77187pt.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/b/n' will be
-(Font)              scaled to size 10.79997pt on input line 732.
-LaTeX Info: Redefining \. on input line 757.
-LaTeX Info: Redefining \% on input line 757.
-LaTeX Info: Redefining \. on input line 757.
-LaTeX Info: Redefining \% on input line 757.
+(Font)              scaled to size 10.79997pt on input line 725.
+LaTeX Info: Redefining \. on input line 750.
+LaTeX Info: Redefining \% on input line 750.
+LaTeX Info: Redefining \. on input line 750.
+LaTeX Info: Redefining \% on input line 750.
 [3<./media/bn-imagen1.png>] [4
 
 ]
 Using TeX to sort glossary entries---this may take a while
-Package biblatex Info: Resetting trackers on input line 776.
+Package biblatex Info: Resetting trackers on input line 769.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/b/n' will be
-(Font)              scaled to size 11.99997pt on input line 776.
+(Font)              scaled to size 11.99997pt on input line 769.
 Using TeX to sort glossary entries---this may take a while
-LaTeX Info: Redefining \. on input line 777.
-LaTeX Info: Redefining \% on input line 777.
-LaTeX Info: Redefining \. on input line 777.
-LaTeX Info: Redefining \% on input line 777.
+LaTeX Info: Redefining \. on input line 770.
+LaTeX Info: Redefining \% on input line 770.
+LaTeX Info: Redefining \. on input line 770.
+LaTeX Info: Redefining \% on input line 770.
 [5
 
 
 ] [6
 
 ]
-Package biblatex Info: Resetting trackers on input line 777.
-LaTeX Info: Redefining \. on input line 778.
-LaTeX Info: Redefining \% on input line 778.
-LaTeX Info: Redefining \. on input line 778.
-LaTeX Info: Redefining \% on input line 778.
+Package biblatex Info: Resetting trackers on input line 770.
+LaTeX Info: Redefining \. on input line 771.
+LaTeX Info: Redefining \% on input line 771.
+LaTeX Info: Redefining \. on input line 771.
+LaTeX Info: Redefining \% on input line 771.
  [7
 
 ] [8
 
 ]
-Package biblatex Info: Resetting trackers on input line 778.
+Package biblatex Info: Resetting trackers on input line 771.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
-(Font)              scaled to size 10.79997pt on input line 778.
+(Font)              scaled to size 10.79997pt on input line 771.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/it' will be
-(Font)              scaled to size 10.79997pt on input line 778.
-LaTeX Info: Redefining \. on input line 806.
-LaTeX Info: Redefining \% on input line 806.
-LaTeX Info: Redefining \. on input line 806.
-LaTeX Info: Redefining \% on input line 806.
+(Font)              scaled to size 10.79997pt on input line 771.
+LaTeX Info: Redefining \. on input line 799.
+LaTeX Info: Redefining \% on input line 799.
+LaTeX Info: Redefining \. on input line 799.
+LaTeX Info: Redefining \% on input line 799.
  [9] [10
 
 ] (./names.ind
 Package biblatex Info: Resetting trackers on input line 1.
 )
-LaTeX Info: Redefining \. on input line 807.
-LaTeX Info: Redefining \% on input line 807.
-LaTeX Info: Redefining \. on input line 807.
-LaTeX Info: Redefining \% on input line 807.
+LaTeX Info: Redefining \. on input line 800.
+LaTeX Info: Redefining \% on input line 800.
+LaTeX Info: Redefining \. on input line 800.
+LaTeX Info: Redefining \% on input line 800.
  [11
 
 ] [12
@@ -2691,10 +2691,10 @@ LaTeX Info: Redefining \% on input line 807.
 ] (./concepto.ind
 Package biblatex Info: Resetting trackers on input line 1.
 )
-LaTeX Info: Redefining \. on input line 808.
-LaTeX Info: Redefining \% on input line 808.
-LaTeX Info: Redefining \. on input line 808.
-LaTeX Info: Redefining \% on input line 808.
+LaTeX Info: Redefining \. on input line 801.
+LaTeX Info: Redefining \% on input line 801.
+LaTeX Info: Redefining \. on input line 801.
+LaTeX Info: Redefining \% on input line 801.
  [13
 
 ] [14
@@ -2703,20 +2703,20 @@ LaTeX Info: Redefining \% on input line 808.
 (./onomastico.ind
 Package biblatex Info: Resetting trackers on input line 1.
 )
-LaTeX Info: Redefining \. on input line 819.
-LaTeX Info: Redefining \% on input line 819.
-LaTeX Info: Redefining \. on input line 819.
-LaTeX Info: Redefining \% on input line 819.
+LaTeX Info: Redefining \. on input line 812.
+LaTeX Info: Redefining \% on input line 812.
+LaTeX Info: Redefining \. on input line 812.
+LaTeX Info: Redefining \% on input line 812.
  [15
 
 ] [16
 
 ]
-Package biblatex Info: Resetting trackers on input line 819.
-LaTeX Info: Redefining \. on input line 831.
-LaTeX Info: Redefining \% on input line 831.
-LaTeX Info: Redefining \. on input line 831.
-LaTeX Info: Redefining \% on input line 831.
+Package biblatex Info: Resetting trackers on input line 812.
+LaTeX Info: Redefining \. on input line 824.
+LaTeX Info: Redefining \% on input line 824.
+LaTeX Info: Redefining \. on input line 824.
+LaTeX Info: Redefining \% on input line 824.
  [17]
 (/usr/share/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
@@ -2750,14 +2750,14 @@ Package logreq Info: Writing requests to 'pdf-CHARLAUBA2.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  54361 strings out of 478285
- 381929,2373549 words of node,token memory allocated
- 308309 words of node memory still in use:
+ 381924,2373549 words of node,token memory allocated
+ 306955 words of node memory still in use:
    4207 hlist, 60 vlist, 1328 rule, 4 ins, 1455 disc, 515 local_par, 4 math, 606
-3 glue, 7061 kern, 810 penalty, 146 margin_kern, 15354 glyph, 20129 attribute, 5
+3 glue, 6949 kern, 810 penalty, 147 margin_kern, 15240 glyph, 20129 attribute, 5
 17 glue_spec, 2877 attribute_list, 29 write, 58 pdf_start_link, 59 pdf_end_link,
  8 pdf_dest, 31 pdf_action, 202 pdf_colorstack, 6 pdf_setmatrix, 6 pdf_save, 6 p
 df_restore nodes
-   avail lists: 1:14,2:236,3:26,4:20,5:372,6:10,7:978,8:18,9:212,10:11,11:114
+   avail lists: 1:15,2:236,3:26,4:20,5:374,6:10,7:980,8:18,9:212,10:11,11:114
  72202 multiletter control sequences out of 65536+600000
  74 fonts using 10336399 bytes
  130i,10n,124p,2270b,2634s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2771,7 +2771,7 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfon
 t/lcircle1.pfb>
-Output written on pdf-CHARLAUBA2.pdf (28 pages, 548390 bytes).
+Output written on pdf-CHARLAUBA2.pdf (28 pages, 548297 bytes).
 
 PDF statistics: 329 PDF objects out of 1000 (max. 8388607)
  175 compressed objects within 2 object streams

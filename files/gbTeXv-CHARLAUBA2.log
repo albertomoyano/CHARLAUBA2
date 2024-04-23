@@ -130,7 +130,7 @@ pg 9: ! Package glossaries Error: Glossary entry `@glo202-joseingenieros' has no
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.676 ...      de \gls{@glo202-joseingenieros}\index
+      l.676 ...ción de \gls{@glo202-joseingenieros}\index
 pg 9: [onomastico]{Ingenieros, J...
 pg 9: You need to define a glossary entry before you can use it.
 pg 9: ! Package glossaries Error: Glossary entry `@glo195-coas' has not been defined.
@@ -138,7 +138,7 @@ pg 9: ! Package glossaries Error: Glossary entry `@glo195-coas' has not been def
       Type  H <return>  for immediate help.
        ...                                              
                                                         
-      l.685 ...ularidad caracterizó a \gls{@glo195-coas} 
+      l.678 ...ularidad caracterizó a \gls{@glo195-coas} 
 pg 9: y también a muchos de sus...
 pg 11: Capítulo 1.
 pg 13: Capítulo 2.
